@@ -4,6 +4,6 @@ import org.junit.*;
 public class randomStuffTest {
 	@Test 
 	public void testMultiplyNumbers(){
-		assertEquals(10, randomStuff.multiplyNumbers(3,3));
+		assertEquals(9, randomStuff.multiplyNumbers(3,3));
 	}
 }
